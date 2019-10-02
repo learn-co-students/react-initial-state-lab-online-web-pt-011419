@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ImageSlider from './ImageSlider';
-import Bomb from './Bomb';
+import ImageSlider from './ImageSlider.js';
+import Bomb from './Bomb.js';
 
 ReactDOM.render(
   <div>
